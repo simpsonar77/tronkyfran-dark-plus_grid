@@ -1,22 +1,8 @@
-# Tronkyfran Themes for EmulationStation
+# Tronkyfran Dark Plus Theme for EmulationStation
 
 ![Arcade banner](mame/art/mame_art_blur.jpg)
 
-Theme `tronkyfran` and variations for use with [EmulationStation](http://www.emulationstation.org/).
-
-## Variations
-
-This theme is available in 4 variations:
-
-1. [`tronkyfran`][1]: default + full sized images (suitable for **desktops**)
-2. [`tronkyfran-optimized`][2]: default + optimized images (suitable for **Retropie Pi3**)
-3. [`tronkyfran-dark`][3]: dark + full sized images (suitable for **desktops**)
-4. [`tronkyfran-dark-optimized`][4]: dark + optimized images (suitable for **Retropie Pi3**)
-
-[1]: https://github.com/HerbFargus/es-theme-tronkyfran
-[2]: https://github.com/HerbFargus/es-theme-tronkyfran/tree/optimized
-[3]: https://github.com/HerbFargus/es-theme-tronkyfran/tree/dark
-[4]: https://github.com/HerbFargus/es-theme-tronkyfran/tree/dark-optimized
+Theme `tronkyfran Dark Plus` for use with [EmulationStation](http://www.emulationstation.org/).
 
 ## Install `tronkyfran-dark`
 
@@ -27,7 +13,7 @@ This theme is available in 4 variations:
 3. Run in a terminal:
 
        cd ~/.emulationstation/themes
-       git clone https://github.com/HerbFargus/es-theme-tronkyfran.git --branch dark --single-branch tronkyfran-dark
+       git clone https://github.com/Sjohn21/tronkyfran-dark-plus.git
 
 ### Update
 
@@ -35,6 +21,12 @@ In order to update your installed theme (if you installed with above instruction
 
     cd ~/.emulationstation/themes/tronkyfran-dark
     git pull
+
+## Todo / in progress
+
+- Fix marquee position in video view
+- add art for missing consoles
+- add console info in system view
 
 ## Changelog
 
