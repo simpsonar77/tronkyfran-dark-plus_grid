@@ -24,6 +24,7 @@ In order to update your installed theme (if you installed with above instruction
 
 ## Todo / in progress
 
+- Fix marquee position in video view
 - add art for missing consoles
 - add console info in system view
 
@@ -31,19 +32,28 @@ In order to update your installed theme (if you installed with above instruction
 
 Please, check [changelog](changelog.txt) file.
 
-## The following Systems are updated
+## Missing systems in the theme
 
-- Atari2600
-- Atari5200
-- Atari7800
-- AtariJaguar 
-- AtariLynx
-- gc
-- n64
-- PSX
-- RetroPie
-- SNES
-- Wii
+The following platforms are using default `simple` images:
+
+- atarijaguar
+- atarijaguarcd
+- dragon32
+- neogeocd
+- pcx68000
+- virtualboy
+- wonderswan
+- xbox
+
+### No emulation possible (no theme)
+
+- n3ds
+- ps3
+- ps4
+- psvita
+- wiiu
+- xbox360
+
 
 ## Credits
 

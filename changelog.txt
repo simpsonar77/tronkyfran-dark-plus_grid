@@ -1,3 +1,21 @@
 28-04-2021
 v1.0 Initial version of dark plus
-Fork of dark branch og Tronkyfran Theme
+Fork of dark branch of Tronkyfran Theme
+
+16-03-2022
+V1.1 First update
+Rewrite main theme.xml
+Re-ordering art to assets and started cleanup unused assets.
+Update license and readme
+Updating themes, including system info, for:
+- Atari2600
+- Atari5200
+- Atari7800
+- AtariJaguar 
+- AtariLynx
+- gc
+- n64
+- PSX
+- RetroPie
+- SNES
+- Wii

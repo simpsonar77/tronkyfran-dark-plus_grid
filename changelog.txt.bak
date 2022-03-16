@@ -1,0 +1,6 @@
+28-04-2021
+v1.0 Initial version of dark plus
+Fork of dark branch of Tronkyfran Theme
+Rewrite to single theme.xml using variables
+Re-ordering art to assets and cleanup unused assets.
+Update license and readme
