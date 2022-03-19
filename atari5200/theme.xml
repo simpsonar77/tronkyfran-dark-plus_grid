@@ -1,5 +1,5 @@
 <!--
-theme name:		tronkyfran-dark-plus-atari2600
+theme name:		tronkyfran-dark-plus-atari5200
 version:		1.0
 author:			Koen Harthoorn aka Sjohn21
 website:		https://github.com/Sjohn21/tronkyfran-dark-plus
@@ -12,31 +12,12 @@ license:		creative commons CC-BY-NC-SA
 	<include>./../theme.xml</include>
 	<view name="system">
 		<text name="releaseDate" extra="true">
-			<pos>0.135 0.125</pos>
-			<size>0.38 0.03</size>
-			<alignment>left</alignment>
-			<fontPath>./../assets/Roboto-Regular.ttf</fontPath>
-			<fontSize>0.03</fontSize>
-			<color>FFFFFFFF</color>
 			<text>NA: 1982</text>
 		</text>
 		<text name="developer" extra="true">
-			<pos>0.135 0.16</pos>
-			<size>0.38 0.03</size>
-			<alignment>left</alignment>
-			<fontPath>./../assets/Roboto-Regular.ttf</fontPath>
-			<fontSize>0.03</fontSize>
-			<color>FFFFFFFF</color>
 			<text>Atari</text>
 		</text>
 		<text name="about" extra="true">
-			<pos>0.025 0.235</pos>
-			<size>0.48 0</size>
-			<alignment>left</alignment>
-			<fontPath>./../assets/OPENSANS.TTF</fontPath>
-			<fontSize>0.024</fontSize>
-			<lineSpacing>1.1</lineSpacing>
-			<color>FFFFFFFF</color>
 			<text>The Atari 5200 SuperSystem, commonly known as the Atari 5200, is a video game console that was introduced in 1982 by Atari Inc. as a higher end complementary console for the popular Atari 2600. The 5200 was created to compete with the Intellivision, but wound up more directly competing with the ColecoVision shortly after its release. The 5200 was based on Atari Inc.'s existing 400/800 computers and the internal hardware was almost identical, although software was not directly compatible between the two systems. The 5200's controllers feature an analog joystick and a numeric keypad along with start, pause and reset buttons. The 360-degree non-centering joystick was touted as offering more control than the four-position joystick controller offered with the Atari 2600.</text>
 		</text>
 	</view>

@@ -1,5 +1,5 @@
 <!--
-theme name:		tronkyfran-dark-plus-atari2600
+theme name:		tronkyfran-dark-plus-psx
 version:		1.0
 author:			Koen Harthoorn aka Sjohn21
 website:		https://github.com/Sjohn21/tronkyfran-dark-plus
@@ -12,31 +12,12 @@ license:		creative commons CC-BY-NC-SA
 	<include>./../theme.xml</include>
 	<view name="system">
 		<text name="releaseDate" extra="true">
-			<pos>0.135 0.125</pos>
-			<size>0.38 0.03</size>
-			<alignment>left</alignment>
-			<fontPath>./../assets/Roboto-Regular.ttf</fontPath>
-			<fontSize>0.03</fontSize>
-			<color>FFFFFFFF</color>
 			<text>JP: 3 December 1994; EU: 29 September 1995</text>
 		</text>
 		<text name="developer" extra="true">
-			<pos>0.135 0.16</pos>
-			<size>0.38 0.03</size>
-			<alignment>left</alignment>
-			<fontPath>./../assets/Roboto-Regular.ttf</fontPath>
-			<fontSize>0.03</fontSize>
-			<color>FFFFFFFF</color>
 			<text>Sony Computer Entertainment</text>
 		</text>
 		<text name="about" extra="true">
-			<pos>0.025 0.235</pos>
-			<size>0.48 0</size>
-			<alignment>left</alignment>
-			<fontPath>./../assets/OPENSANS.TTF</fontPath>
-			<fontSize>0.024</fontSize>
-			<lineSpacing>1.1</lineSpacing>
-			<color>FFFFFFFF</color>
 			<text>The PlayStation , officially abbreviated as PS; unofficially referred to as the PSX or PS1) is a 32-bit fifth-generation video game console first released by Sony Computer Entertainment in Japan on December 3, 1994. The PlayStation was the first of the PlayStation series of consoles and handheld game devices. The PlayStation 2 was the console's successor in 2000. The PlayStation was the first "computer entertainment platform" to ship 100 million units, which it had reached 9 years and 6 months after its initial launch. In 2000, a re-designed, "slim" version was released, called the PSone. This marked the end of the original grey console.</text>
 		</text>
 	</view>

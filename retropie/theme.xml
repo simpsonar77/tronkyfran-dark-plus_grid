@@ -1,5 +1,5 @@
 <!--
-theme name:		tronkyfran-dark-plus-atari2600
+theme name:		tronkyfran-dark-plus-retropie
 version:		1.0
 author:			Koen Harthoorn aka Sjohn21
 website:		https://github.com/Sjohn21/tronkyfran-dark-plus
@@ -12,31 +12,12 @@ license:		creative commons CC-BY-NC-SA
 	<include>./../theme.xml</include>
 	<view name="system">
 		<text name="releaseDate" extra="true">
-			<pos>0.135 0.125</pos>
-			<size>0.38 0.03</size>
-			<alignment>left</alignment>
-			<fontPath>./../assets/Roboto-Regular.ttf</fontPath>
-			<fontSize>0.03</fontSize>
-			<color>FFFFFFFF</color>
 			<text>July 22, 2012</text>
 		</text>
 		<text name="developer" extra="true">
-			<pos>0.135 0.16</pos>
-			<size>0.38 0.03</size>
-			<alignment>left</alignment>
-			<fontPath>./../assets/Roboto-Regular.ttf</fontPath>
-			<fontSize>0.03</fontSize>
-			<color>FFFFFFFF</color>
 			<text>RetroPie Project</text>
 		</text>
 		<text name="about" extra="true">
-			<pos>0.025 0.235</pos>
-			<size>0.48 0</size>
-			<alignment>left</alignment>
-			<fontPath>./../assets/OPENSANS.TTF</fontPath>
-			<fontSize>0.024</fontSize>
-			<lineSpacing>1.1</lineSpacing>
-			<color>FFFFFFFF</color>
 			<text>RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine. It builds upon Raspbian, EmulationStation, RetroArch and many other projects to enable you to play your favourite Arcade, home-console, and classic PC games with the minimum set-up.</text>
 		</text>
 	</view>

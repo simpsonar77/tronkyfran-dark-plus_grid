@@ -17,27 +17,27 @@ license:		creative commons CC-BY-NC-SA
 			<origin>0.5 0.5</origin>
 		</image>
 		<carousel name="systemcarousel">
-			<pos>0 0.7</pos>
+			<pos>0 0.69</pos>
 		</carousel>
 		<text name="systemInfo">
-			<pos>0.02 0.59</pos>
+			<pos>0.24 0.59</pos>
 			<size>0.5 0</size>
 			<color>FFFFFFFF</color>
 		</text>
 		<text name="systInfoWrapper" extra="true">
-			<pos>0.02 0.04 </pos>
+			<pos>0.24 0.04 </pos>
 			<size>0.5 0.61</size>
-			<backgroundColor>000000B8</backgroundColor>
+			<backgroundColor>000000AA</backgroundColor>
 		</text>
 		<image name="sysLogo" extra="true">
 			<maxSize>0 0.05</maxSize>
 			<size>0 0.05</size>
-			<pos>0.26 0.085</pos>
+			<pos>0.5 0.085</pos>
 			<origin>0.5 0.5</origin>
 			<path>./${system.theme}/logo-light.svg</path>
 		</image>
 		<text name="releaseDateLabel" extra="true">
-			<pos>0.025 0.125</pos>
+			<pos>0.25 0.125</pos>
 			<size>0.11 0.03</size>
 			<alignment>left</alignment>
 			<fontPath>./assets/Roboto-Bold.ttf</fontPath>
@@ -46,7 +46,7 @@ license:		creative commons CC-BY-NC-SA
 			<text>Release date:</text>
 		</text>
 		<text name="developerLabel" extra="true">
-			<pos>0.025 0.16</pos>
+			<pos>0.25 0.16</pos>
 			<size>0.11 0.03</size>
 			<alignment>left</alignment>
 			<fontPath>./assets/Roboto-Bold.ttf</fontPath>
@@ -55,13 +55,38 @@ license:		creative commons CC-BY-NC-SA
 			<text>Developer:</text>
 		</text>
 		<text name="aboutLabel" extra="true">
-			<pos>0.025 0.195</pos>
+			<pos>0.25 0.195</pos>
 			<size>0.11 0.03</size>
 			<alignment>left</alignment>
 			<fontPath>./assets/Roboto-Bold.ttf</fontPath>
 			<fontSize>0.03</fontSize>
 			<color>FFFFFFFF</color>
 			<text>About:</text>
+		</text>
+		<text name="releaseDate" extra="true">
+			<pos>0.36 0.125</pos>
+			<size>0.38 0.03</size>
+			<alignment>left</alignment>
+			<fontPath>./assets/Roboto-Regular.ttf</fontPath>
+			<fontSize>0.03</fontSize>
+			<color>FFFFFFFF</color>
+		</text>
+		<text name="developer" extra="true">
+			<pos>0.36 0.16</pos>
+			<size>0.38 0.03</size>
+			<alignment>left</alignment>
+			<fontPath>./assets/Roboto-Regular.ttf</fontPath>
+			<fontSize>0.03</fontSize>
+			<color>FFFFFFFF</color>
+		</text>
+		<text name="about" extra="true">
+			<pos>0.25 0.235</pos>
+			<size>0.48 0</size>
+			<alignment>left</alignment>
+			<fontPath>./assets/Roboto-Regular.ttf</fontPath>
+			<fontSize>0.024</fontSize>
+			<lineSpacing>1.1</lineSpacing>
+			<color>FFFFFFFF</color>
 		</text>
 		<image name="logo">
 			<path>./${system.theme}/logo.svg</path>

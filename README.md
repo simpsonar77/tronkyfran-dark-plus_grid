@@ -4,6 +4,8 @@
 
 Theme `tronkyfran Dark Plus` for use with [EmulationStation](http://www.emulationstation.org/).
 
+A fork reworked to include backgrounds in all views, have the marquees in the right position and to include system information in system view
+
 ## Install `tronkyfran-dark-plus`
 
 1. Close EmulationStation.
@@ -19,13 +21,12 @@ Theme `tronkyfran Dark Plus` for use with [EmulationStation](http://www.emulatio
 
 In order to update your installed theme (if you installed with above instructions), open a terminal and run:
 
-    cd ~/.emulationstation/themes/tronkyfran-dark
+    cd ~/.emulationstation/themes/tronkyfran-dark-plus
     git pull
 
 ## Todo / in progress
 
-- add art for missing consoles
-- add console info in system view
+- add art & description for missing consoles and update others
 
 ## Changelog
 
@@ -33,6 +34,9 @@ Please, check [changelog](changelog.txt) file.
 
 ## The following Systems are updated
 
+- 3DO
+- Amiga
+- AmstradCPC
 - Atari2600
 - Atari5200
 - Atari7800
@@ -52,7 +56,11 @@ Theme `tronkyfran` and variations by [Tronkyfran](https://github.com/tronkyfran)
 
 Based on `simple v1.4 - 03-08-2015` by © [Nils Bonenberger](http://blog.nilsbyte.de/).
 
-Atari Jaguar background [image](https://commons.wikimedia.org/wiki/File:Atari-Jaguar-Console-Set.png?uselang=nl) is remix from original by [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos?uselang=nl)
+Atari Jaguar background [image](https://commons.wikimedia.org/wiki/File:Atari-Jaguar-Console-Set.png) is remix from original by [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+
+Custom collection background [image](https://www.flickr.com/photos/motleypixel/20600012022/) is a remix from original by [Roy Niswanger](https://www.flickr.com/photos/motleypixel/)
+
+All platform "about" descriptions are direct copies or remixes from platform information on [thegamesDB](https://thegamesdb.net/list_platforms.php)
 
 ## License
 

@@ -1,0 +1,46 @@
+<!--
+theme name:		tronkyfran-dark-plus-auto-allgames
+version:		1.0
+author:			Koen Harthoorn aka Sjohn21
+website:		https://github.com/Sjohn21/tronkyfran-dark-plus
+forked from: 	tronkyfran  Tronkyfran/Herb Fargus (simple by nils bonenberger at www.nilsbyte.de)
+forked from:	https://github.com/HerbFargus/es-theme-tronkyfran
+license:		creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+		<text name="description" extra="true">
+			<pos>0.25 0.15</pos>
+			<size>0.48 0</size>
+			<alignment>left</alignment>
+			<fontPath>./../assets/Roboto-Regular.ttf</fontPath>
+			<fontSize>0.024</fontSize>
+			<lineSpacing>1.1</lineSpacing>
+			<color>FFFFFFFF</color>
+			<text>Hold on tight! All your games are here! Alphabetically sorted.</text>
+		</text>
+		<text name="releaseDate" extra="true">
+			<visible>false</visible>
+		</text>
+		<text name="developer" extra="true">
+			<visible>false</visible>
+		</text>
+		<text name="about" extra="true">
+			<visible>false</visible>
+		</text>
+		<text name="releaseDateLabel" extra="true">
+			<visible>false</visible>
+		</text>
+		<text name="developerLabel" extra="true">
+			<visible>false</visible>
+		</text>
+		<text name="aboutLabel" extra="true">
+			<visible>false</visible>
+		</text>
+	</view>
+	
+</theme>
+
+

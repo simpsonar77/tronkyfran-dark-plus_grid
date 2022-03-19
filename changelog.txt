@@ -19,3 +19,8 @@ Updating themes, including system info, for:
 - RetroPie
 - SNES
 - Wii
+
+19-03-2022
+V1.2 First update
+Include auto generated theme files
+Update some systems

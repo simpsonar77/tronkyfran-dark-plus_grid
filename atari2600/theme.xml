@@ -12,31 +12,12 @@ license:		creative commons CC-BY-NC-SA
 	<include>./../theme.xml</include>
 	<view name="system">
 		<text name="releaseDate" extra="true">
-			<pos>0.135 0.125</pos>
-			<size>0.38 0.03</size>
-			<alignment>left</alignment>
-			<fontPath>./../assets/Roboto-Regular.ttf</fontPath>
-			<fontSize>0.03</fontSize>
-			<color>FFFFFFFF</color>
 			<text>NA: September 1977; EU: 1978</text>
 		</text>
 		<text name="developer" extra="true">
-			<pos>0.135 0.16</pos>
-			<size>0.38 0.03</size>
-			<alignment>left</alignment>
-			<fontPath>./../assets/Roboto-Regular.ttf</fontPath>
-			<fontSize>0.03</fontSize>
-			<color>FFFFFFFF</color>
 			<text>Atari</text>
 		</text>
 		<text name="about" extra="true">
-			<pos>0.025 0.235</pos>
-			<size>0.48 0</size>
-			<alignment>left</alignment>
-			<fontPath>./../assets/OPENSANS.TTF</fontPath>
-			<fontSize>0.024</fontSize>
-			<lineSpacing>1.1</lineSpacing>
-			<color>FFFFFFFF</color>
 			<text>The Atari 2600 is a video game console released in October 1977 by Atari, Inc. It is credited with popularizing the use of microprocessor-based hardware and cartridges containing game code, instead of having non-microprocessor dedicated hardware with all games built in. The first game console to use this format was the Fairchild Channel F; however, the Atari 2600 receives credit for making the plug-in concept popular among the game-playing public. The console was originally sold as the Atari VCS, for Video Computer System. Following the release of the Atari 5200, in 1982, the VCS was renamed "Atari 2600", after the unit's Atari part number, CX2600. The 2600 was typically bundled with two joystick controllers, a conjoined pair of paddle controllers, and a cartridge game—initially Combat and later Pac-Man. The Atari 2600 was wildly successful, and during much of the 1980s, "Atari" was a synonym for this model in mainstream media and, by extension, for video games in general.</text>
 		</text>
 	</view>

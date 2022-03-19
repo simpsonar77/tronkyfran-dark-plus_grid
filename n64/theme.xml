@@ -1,5 +1,5 @@
 <!--
-theme name:		tronkyfran-dark-plus-atari2600
+theme name:		tronkyfran-dark-plus-n64
 version:		1.0
 author:			Koen Harthoorn aka Sjohn21
 website:		https://github.com/Sjohn21/tronkyfran-dark-plus
@@ -12,31 +12,12 @@ license:		creative commons CC-BY-NC-SA
 	<include>./../theme.xml</include>
 	<view name="system">
 		<text name="releaseDate" extra="true">
-			<pos>0.135 0.125</pos>
-			<size>0.38 0.03</size>
-			<alignment>left</alignment>
-			<fontPath>./../assets/Roboto-Regular.ttf</fontPath>
-			<fontSize>0.03</fontSize>
-			<color>FFFFFFFF</color>
 			<text>JP: June 23, 1996; EU: March 1, 1997</text>
 		</text>
 		<text name="developer" extra="true">
-			<pos>0.135 0.16</pos>
-			<size>0.38 0.03</size>
-			<alignment>left</alignment>
-			<fontPath>./../assets/Roboto-Regular.ttf</fontPath>
-			<fontSize>0.03</fontSize>
-			<color>FFFFFFFF</color>
 			<text>Nintendo</text>
 		</text>
 		<text name="about" extra="true">
-			<pos>0.025 0.235</pos>
-			<size>0.48 0</size>
-			<alignment>left</alignment>
-			<fontPath>./../assets/OPENSANS.TTF</fontPath>
-			<fontSize>0.024</fontSize>
-			<lineSpacing>1.1</lineSpacing>
-			<color>FFFFFFFF</color>
 			<text>The Nintendo 64, often referred to as N64, was Nintendo′s third home video game console for the international market. Named for its 64-bit CPU, it was released in June 1996 in Japan, September 1996 in North America, March 1997 in Europe and Australia, September 1997 in France and December 1997 in Brazil. It is Nintendo′s last home console to use ROM cartridges to store games (Nintendo switched to a MiniDVD-based format for the successor GameCube); handhelds in the Game Boy line, however, continued to use Game Paks. It was discontinued in 2001 in Japan, North America and PAL regions by the launch of Nintendo′s GameCube.</text>
 		</text>
 	</view>
