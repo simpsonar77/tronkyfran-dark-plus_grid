@@ -7,20 +7,13 @@ V1.1 First update
 Rewrite main theme.xml
 Re-ordering art to assets and started cleanup unused assets.
 Update license and readme
-Updating themes, including system info, for:
-- Atari2600
-- Atari5200
-- Atari7800
-- AtariJaguar 
-- AtariLynx
-- gc
-- n64
-- PSX
-- RetroPie
-- SNES
-- Wii
+Updating themes, including system info
 
 19-03-2022
-V1.2 First update
+V1.2.0 First update
 Include auto generated theme files
-Update some systems
+Updated some systems
+
+19-03-2022
+V1.2.1 First update
+Updated some systems

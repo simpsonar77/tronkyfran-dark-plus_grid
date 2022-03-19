@@ -1,0 +1,27 @@
+<!--
+theme name:		tronkyfran-dark-plus-colecovision
+version:		1.0
+author:			Koen Harthoorn aka Sjohn21
+website:		https://github.com/Sjohn21/tronkyfran-dark-plus
+forked from: 	tronkyfran  Tronkyfran/Herb Fargus (simple by nils bonenberger at www.nilsbyte.de)
+forked from:	https://github.com/HerbFargus/es-theme-tronkyfran
+license:		creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+		<text name="releaseDate" extra="true">
+			<text>August 1982</text>
+		</text>
+		<text name="developer" extra="true">
+			<text>Commodore International</text>
+		</text>
+		<text name="about" extra="true">
+			<text>The Commodore 64 is an 8-bit home computer introduced by Commodore International in January 1982. Volume production started in the spring of 1982, with machines being released on to the market in August at a price of US$595. Preceded by the Commodore VIC-20 and Commodore PET machines, the C64 features 64 kilobytes (65,536 bytes) of RAM, hence the name, and had favourable sound and graphical specifications when compared to well-known contemporary systems such as the Apple II, particularly as the price was well below that demanded by Apple. It is commonly known as the C64 or C=64 (after the graphic logo on the case) and occasionally as the CBM 64 (for Commodore Business Machines), or VIC-64.</text>
+		</text>
+	</view>
+	
+</theme>
+
+

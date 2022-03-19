@@ -1,0 +1,27 @@
+<!--
+theme name:		tronkyfran-dark-plus-daphne
+version:		1.0
+author:			Koen Harthoorn aka Sjohn21
+website:		https://github.com/Sjohn21/tronkyfran-dark-plus
+forked from: 	tronkyfran  Tronkyfran/Herb Fargus (simple by nils bonenberger at www.nilsbyte.de)
+forked from:	https://github.com/HerbFargus/es-theme-tronkyfran
+license:		creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+		<text name="releaseDate" extra="true">
+			<text>	August 1982</text>
+		</text>
+		<text name="developer" extra="true">
+			<text>Dragon Data</text>
+		</text>
+		<text name="about" extra="true">
+			<text>The Dragon 32 and Dragon 64 are home computers that were built in the 1980s. The Dragons are very similar to the TRS-80 Color Computer, and were produced for the European market by Dragon Data, Ltd., in Port Talbot, Wales, and for the US market by Tano of New Orleans, Louisiana. The model numbers reflect the primary difference between the two machines, which have 32 and 64 kilobytes of RAM, respectively. Initially, the Dragon was reasonably well supported by the major UK software companies with versions of popular games from other systems being ported to the Dragon. Examples of top selling games available for the Dragon include Arcadia (Imagine), Chuckie Egg (A&F), Manic Miner and sequel Jet Set Willy (Software Projects), Hunchback (Ocean) and Football Manager (Addictive). There were also companies that concentrated on the Dragon such as Microdeal. Their character Cuthbert appeared in several games on the Dragon with Cuthbert Goes Walkabout also being converted for Atari 8-bit and Commodore 64 systems.</text>
+		</text>
+	</view>
+	
+</theme>
+
+

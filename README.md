@@ -36,12 +36,18 @@ Please, check [changelog](changelog.txt) file.
 
 - 3DO
 - Amiga
-- AmstradCPC
-- Atari2600
-- Atari5200
-- Atari7800
-- AtariJaguar 
-- AtariLynx
+- Amstrad CPC
+- Apple II
+- Atari 2600
+- Atari 5200
+- Atari 7800
+- Atari Jaguar 
+- Atari Lynx
+- Atari ST
+- CoCo (TRS-80 Color Computer)
+- ColecoVision
+- Daphne
+- Dragon 32
 - gc
 - n64
 - PSX

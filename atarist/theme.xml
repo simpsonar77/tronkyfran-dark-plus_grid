@@ -1,0 +1,27 @@
+<!--
+theme name:		tronkyfran-dark-plus-atarist
+version:		1.0
+author:			Koen Harthoorn aka Sjohn21
+website:		https://github.com/Sjohn21/tronkyfran-dark-plus
+forked from: 	tronkyfran  Tronkyfran/Herb Fargus (simple by nils bonenberger at www.nilsbyte.de)
+forked from:	https://github.com/HerbFargus/es-theme-tronkyfran
+license:		creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+		<text name="releaseDate" extra="true">
+			<text>June 1985</text>
+		</text>
+		<text name="developer" extra="true">
+			<text>Atari</text>
+		</text>
+		<text name="about" extra="true">
+			<text>The Atari ST is a line of home computers from Atari Corporation and the successor to the Atari 8-bit family. The ST enjoyed success in gaming due to low cost, fast performance and colorful graphics. An early real-time 3D role-playing video game, Dungeon Master, was first developed and released on the ST, and was the best-selling software ever produced for the platform. Simulation games like Falcon and Flight Simulator II made use of the enhanced graphics found in the ST machines, as did many arcade ports. One game, MIDI Maze, uses the MIDI ports to connect up to 16 machines for interactive networked play. Games simultaneously released on the Amiga that had identical graphics and sound were often accused by video game magazines of simply being ST ports. The critically acclaimed game Another World was originally released for ST and Amiga in 1991 with the Polygonal engine developed on the ST and the rotoscoped animations created on the Amiga (the two games are very similar on both systems).</text>
+		</text>
+	</view>
+	
+</theme>
+
+

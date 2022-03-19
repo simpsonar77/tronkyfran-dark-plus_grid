@@ -1,0 +1,27 @@
+<!--
+theme name:		tronkyfran-dark-plus-apple2
+version:		1.0
+author:			Koen Harthoorn aka Sjohn21
+website:		https://github.com/Sjohn21/tronkyfran-dark-plus
+forked from: 	tronkyfran  Tronkyfran/Herb Fargus (simple by nils bonenberger at www.nilsbyte.de)
+forked from:	https://github.com/HerbFargus/es-theme-tronkyfran
+license:		creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+		<text name="releaseDate" extra="true">
+			<text>June 1977</text>
+		</text>
+		<text name="developer" extra="true">
+			<text>Apple</text>
+		</text>
+		<text name="about" extra="true">
+			<text>The Apple II (styled as apple ][) is an 8-bit home computer, one of the first highly successful mass-produced microcomputer products, designed primarily by Steve Wozniak. It was introduced in 1977 at the West Coast Computer Faire by Jobs and was the first consumer product sold by Apple Computer. It is the first model in a series of computers which were produced until Apple IIe production ceased in November 1993.</text>
+		</text>
+	</view>
+	
+</theme>
+
+

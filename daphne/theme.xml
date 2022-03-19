@@ -1,0 +1,27 @@
+<!--
+theme name:		tronkyfran-dark-plus-daphne
+version:		1.0
+author:			Koen Harthoorn aka Sjohn21
+website:		https://github.com/Sjohn21/tronkyfran-dark-plus
+forked from: 	tronkyfran  Tronkyfran/Herb Fargus (simple by nils bonenberger at www.nilsbyte.de)
+forked from:	https://github.com/HerbFargus/es-theme-tronkyfran
+license:		creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+		<text name="releaseDate" extra="true">
+			<text>December 2008</text>
+		</text>
+		<text name="developer" extra="true">
+			<text>Matt Ownby</text>
+		</text>
+		<text name="about" extra="true">
+			<text>Were you enchanted by laserdisc arcade games back when they were new? Have you ever wished that you could play the original arcade version of Dragon's Lair again? Well, now you can, using Daphne! Daphne lets you play Dragon's Lair and other laserdisc arcade games, just like you remember them from the arcade!.</text>
+		</text>
+	</view>
+	
+</theme>
+
+

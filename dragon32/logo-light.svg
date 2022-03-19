@@ -2,22 +2,22 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:ns="http://ns.adobe.com/SaveForWeb/1.0/"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="559.2486"
-   height="81.179924"
-   viewBox="0 0 559.24859 81.179927"
-   id="svg2"
+   sodipodi:docname="logo-light.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    xml:space="preserve"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="Dragon32-Sticker.svg"><sodipodi:namedview
+   id="svg2"
+   viewBox="0 0 559.24859 81.179927"
+   height="81.179924"
+   width="559.2486"
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:ns="http://ns.adobe.com/SaveForWeb/1.0/"><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -26,8 +26,8 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1680"
-   inkscape:window-height="988"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
    id="namedview18"
    showgrid="false"
    fit-margin-top="0"
@@ -35,12 +35,13 @@
    fit-margin-right="0"
    fit-margin-bottom="0"
    inkscape:zoom="1.8045977"
-   inkscape:cx="309.88649"
-   inkscape:cy="40.170123"
+   inkscape:cx="273.19108"
+   inkscape:cy="-19.394904"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg2" /><defs
+   inkscape:current-layer="svg2"
+   inkscape:pagecheckerboard="0" /><defs
    id="defs28" />
 <metadata
    id="metadata7">
@@ -50,7 +51,7 @@
 			<dc:format>image/svg+xml</dc:format>
 			<dc:type
    rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-			<dc:title></dc:title>
+			
 		</cc:Work>
 	</rdf:RDF>
 	<ns:sfw>
@@ -76,7 +77,8 @@
 <path
    d="m 559.24859,75.465552 c 0,3.154194 -2.14991,5.714379 -4.80117,5.714379 H 4.8011446 c -2.6512485,0 -4.801157367529,-2.560185 -4.801157367529,-5.714379 V 5.7150514 C -1.2767529e-5,2.5595092 2.1498961,0 4.8011446,0 H 554.44742 c 2.65126,0 4.80117,2.5595092 4.80117,5.7150514 V 75.465552 l 0,0 z"
    id="path4"
-   inkscape:connector-curvature="0" />
+   inkscape:connector-curvature="0"
+   style="fill:none" />
 <linearGradient
    x1="895.85522"
    y1="-429.6785"

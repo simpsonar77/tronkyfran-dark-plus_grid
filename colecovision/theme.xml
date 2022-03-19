@@ -1,0 +1,27 @@
+<!--
+theme name:		tronkyfran-dark-plus-colecovision
+version:		1.0
+author:			Koen Harthoorn aka Sjohn21
+website:		https://github.com/Sjohn21/tronkyfran-dark-plus
+forked from: 	tronkyfran  Tronkyfran/Herb Fargus (simple by nils bonenberger at www.nilsbyte.de)
+forked from:	https://github.com/HerbFargus/es-theme-tronkyfran
+license:		creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+		<text name="releaseDate" extra="true">
+			<text>NA: August 1982; EU: July 1983</text>
+		</text>
+		<text name="developer" extra="true">
+			<text>Coleco</text>
+		</text>
+		<text name="about" extra="true">
+			<text>The ColecoVision is Coleco Industries' second generation home video game console which was released in August 1982. The ColecoVision offered arcade-quality graphics and gaming style, and the means to expand the system's basic hardware. Released with a catalog of 12 launch titles, with an additional ten games announced for 1982, approximately 145 titles in total were published as ROM cartridges for the system between 1982 and 1984.</text>
+		</text>
+	</view>
+	
+</theme>
+
+
