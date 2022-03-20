@@ -1,0 +1,27 @@
+<!--
+theme name:		tronkyfran-dark-plus-fba
+version:		1.0
+author:			Koen Harthoorn aka Sjohn21
+website:		https://github.com/Sjohn21/tronkyfran-dark-plus
+forked from: 	tronkyfran  Tronkyfran/Herb Fargus (simple by nils bonenberger at www.nilsbyte.de)
+forked from:	https://github.com/HerbFargus/es-theme-tronkyfran
+license:		creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+		<text name="releaseDate" extra="true">
+			<text>December 3, 2011</text>
+		</text>
+		<text name="developer" extra="true">
+			<text>FBN community</text>
+		</text>
+		<text name="about" extra="true">
+			<text>Here are your games stored to be used with FinalBurn Neo, an Emulator for Arcade Games & Select Consoles. It is based on the emulators FinalBurn and old versions of MAME</text>
+		</text>
+	</view>
+	
+</theme>
+
+

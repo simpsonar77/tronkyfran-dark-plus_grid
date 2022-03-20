@@ -41,14 +41,25 @@ Please, check [changelog](changelog.txt) file.
 - Atari 2600
 - Atari 5200
 - Atari 7800
-- Atari Jaguar 
+- Atari Jaguar (non-tronkyfan)
 - Atari Lynx
 - Atari ST
 - CoCo (TRS-80 Color Computer)
 - ColecoVision
 - Daphne
 - Dragon 32
-- gc
+- Dreamcast
+- Famicom Disk System
+- FinalBurn Neo
+- GameCube
+- Game & Watch
+- Game Gear
+- Game Boy
+- Game Boy Color
+- Game Boy Advance
+- Intellivision
+- Macintosh (non-tronkyfan)
+
 - n64
 - PSX
 - RetroPie

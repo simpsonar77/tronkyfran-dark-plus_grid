@@ -1,0 +1,27 @@
+<!--
+theme name:		tronkyfran-dark-plus-gb
+version:		1.0
+author:			Koen Harthoorn aka Sjohn21
+website:		https://github.com/Sjohn21/tronkyfran-dark-plus
+forked from: 	tronkyfran  Tronkyfran/Herb Fargus (simple by nils bonenberger at www.nilsbyte.de)
+forked from:	https://github.com/HerbFargus/es-theme-tronkyfran
+license:		creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+		<text name="releaseDate" extra="true">
+			<text>JP: April 21, 1989; EU: September 28, 1990</text>
+		</text>
+		<text name="developer" extra="true">
+			<text>Nintendo</text>
+		</text>
+		<text name="about" extra="true">
+			<text>The Game Boy, is an 8-bit handheld video game device developed and manufactured by Nintendo. It was released in Japan on April 21, 1989, in North America in August 1989, and in Europe on September 28, 1990. It is the first handheld console in the Game Boy line, and was created by Gunpei Yokoi and Nintendo Research & Development 1—the same staff who had designed the Game & Watch series as well as several popular games for the Nintendo Entertainment System.</text>
+		</text>
+	</view>
+	
+</theme>
+
+

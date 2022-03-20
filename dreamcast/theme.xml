@@ -1,0 +1,27 @@
+<!--
+theme name:		tronkyfran-dark-plus-dreamcast
+version:		1.0
+author:			Koen Harthoorn aka Sjohn21
+website:		https://github.com/Sjohn21/tronkyfran-dark-plus
+forked from: 	tronkyfran  Tronkyfran/Herb Fargus (simple by nils bonenberger at www.nilsbyte.de)
+forked from:	https://github.com/HerbFargus/es-theme-tronkyfran
+license:		creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+		<text name="releaseDate" extra="true">
+			<text>JP: November 27, 1998; EU: October 14, 1999</text>
+		</text>
+		<text name="developer" extra="true">
+			<text>Sega</text>
+		</text>
+		<text name="about" extra="true">
+			<text>The Dreamcast is a 128-bit video game console which was released by Sega in late 1998 in Japan and from September 1999 in other territories. It was the first entry in the sixth generation of video game consoles, preceding Sony's PlayStation 2, Microsoft's Xbox and the Nintendo GameCube. Dreamcast sales were positive during launch, but because of the strong pressure from rival PlayStation 2, Dreamcast sales decreased, and Sega finally discontinued the Dreamcast in March 2001 and withdrew entirely from the console hardware business, making it the company's final console.</text>
+		</text>
+	</view>
+	
+</theme>
+
+

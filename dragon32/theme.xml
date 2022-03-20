@@ -1,5 +1,5 @@
 <!--
-theme name:		tronkyfran-dark-plus-daphne
+theme name:		tronkyfran-dark-plus-dragon32
 version:		1.0
 author:			Koen Harthoorn aka Sjohn21
 website:		https://github.com/Sjohn21/tronkyfran-dark-plus
@@ -12,7 +12,7 @@ license:		creative commons CC-BY-NC-SA
 	<include>./../theme.xml</include>
 	<view name="system">
 		<text name="releaseDate" extra="true">
-			<text>	August 1982</text>
+			<text>August 1982</text>
 		</text>
 		<text name="developer" extra="true">
 			<text>Dragon Data</text>

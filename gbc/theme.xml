@@ -1,0 +1,27 @@
+<!--
+theme name:		tronkyfran-dark-plus-gbc
+version:		1.0
+author:			Koen Harthoorn aka Sjohn21
+website:		https://github.com/Sjohn21/tronkyfran-dark-plus
+forked from: 	tronkyfran  Tronkyfran/Herb Fargus (simple by nils bonenberger at www.nilsbyte.de)
+forked from:	https://github.com/HerbFargus/es-theme-tronkyfran
+license:		creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+		<text name="releaseDate" extra="true">
+			<text>JP: October 21, 1998; EU: November 23, 1998</text>
+		</text>
+		<text name="developer" extra="true">
+			<text>Nintendo</text>
+		</text>
+		<text name="about" extra="true">
+			<text>The Game Boy Color is Nintendo's successor to the 8-bit Game Boy handheld game console, and was released on October 21, 1998 in Japan, November 19, 1998 in North America, November 23, 1998 in Europe and November 27, 1998 in the United Kingdom. It features a color screen and is slightly thicker and taller than the Game Boy Pocket. As with the original Game Boy, it has an 8-bit processor. The Game Boy and Game Boy Color combined have sold 118.69 million units worldwide</text>
+		</text>
+	</view>
+	
+</theme>
+
+

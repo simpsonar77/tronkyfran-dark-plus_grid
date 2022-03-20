@@ -1,0 +1,27 @@
+<!--
+theme name:		tronkyfran-dark-plus-macintosh
+version:		1.0
+author:			Koen Harthoorn aka Sjohn21
+website:		https://github.com/Sjohn21/tronkyfran-dark-plus
+forked from: 	tronkyfran  Tronkyfran/Herb Fargus (simple by nils bonenberger at www.nilsbyte.de)
+forked from:	https://github.com/HerbFargus/es-theme-tronkyfran
+license:		creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+		<text name="releaseDate" extra="true">
+			<text>January 24, 1984</text>
+		</text>
+		<text name="developer" extra="true">
+			<text>Apple</text>
+		</text>
+		<text name="about" extra="true">
+			<text>Released with much fanfare in January of 1984, the Macintosh was the first affordable computer to include a Graphical User Interface. It was built around the new Motorola 68000 chip, which was significantly faster than previous processors, running at 8 MHz. The Mac came in a small beige case with a black and white monitor built in. It came with a keyboard and mouse, and had a floppy drive that took 400 kB 3.5" disks--the first personal computer to do so. It originally sold for $2,495.</text>
+		</text>
+	</view>
+	
+</theme>
+
+
