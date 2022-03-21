@@ -1,0 +1,27 @@
+<!--
+theme name:		tronkyfran-dark-plus-nds
+version:		1.0
+author:			Koen Harthoorn aka Sjohn21
+website:		https://github.com/Sjohn21/tronkyfran-dark-plus
+forked from: 	tronkyfran  Tronkyfran/Herb Fargus (simple by nils bonenberger at www.nilsbyte.de)
+forked from:	https://github.com/HerbFargus/es-theme-tronkyfran
+license:		creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+		<text name="releaseDate" extra="true">
+			<text>NA: November 21, 2004; EU: March 11, 2005</text>
+		</text>
+		<text name="developer" extra="true">
+			<text>Nintendo</text>
+		</text>
+		<text name="about" extra="true">
+			<text>The Nintendo DS (abbreviated to DS or NDS) is a portable game console produced by Nintendo, first released on November 21, 2004. A distinctive feature of the system is the presence of two separate LCD screens, the lower of which is a touchscreen, encompassed within a clamshell design, similar to the Game Boy Advance SP. The Nintendo DS also features a built-in microphone and supports wireless standards, allowing players to interact with each other within short range, or online with the Nintendo Wi-Fi Connection service. The Nintendo DS is the first Nintendo console to be released in North America before Japan.</text>
+		</text>
+	</view>
+	
+</theme>
+
+

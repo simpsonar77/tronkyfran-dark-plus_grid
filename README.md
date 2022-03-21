@@ -1,6 +1,6 @@
 # Tronkyfran Dark Plus Theme for EmulationStation
 
-![Arcade banner](mame/art/mame_art_blur.jpg)
+![Arcade banner](fba/background.jpg)
 
 Theme `tronkyfran Dark Plus` for use with [EmulationStation](http://www.emulationstation.org/).
 
@@ -59,8 +59,20 @@ Please, check [changelog](changelog.txt) file.
 - Game Boy Advance
 - Intellivision
 - Macintosh (non-tronkyfan)
+- Mame
+- Master System
+- Mega Drive
+- MSX
+- Neo Geo
+- Neo Geo CD (non-tronkyfan)(out of the box this theme doesn't show as emulators refer to Neo Geo. However, see [here](https://retropie.org.uk/forum/topic/26064/neo-geo-cd-for-dummies/56) for pointers to add it as seperate theme.
+- Neo Geo Pocket (non-tronkyfan)
+- Neo Geo Pocket color
+- Nintendo 64
+- Nintendo DS
+- Nintendo Entertainment System (NES)
 
-- n64
+- Sega CD
+
 - PSX
 - RetroPie
 - SNES
@@ -74,6 +86,8 @@ Theme `tronkyfran` and variations by [Tronkyfran](https://github.com/tronkyfran)
 Based on `simple v1.4 - 03-08-2015` by © [Nils Bonenberger](http://blog.nilsbyte.de/).
 
 Atari Jaguar background [image](https://commons.wikimedia.org/wiki/File:Atari-Jaguar-Console-Set.png) is remix from original by [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+Neo Geo CD [image](https://commons.wikimedia.org/wiki/File:Neo-Geo-CD-TopLoader-wController-FL.jpg) is remix from original by [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
+Neo Geo Pocket background [image](https://commons.wikimedia.org/wiki/File:Neo-Geo-Pocket-Anthra-Left.jpg) is remix from original by [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 Custom collection background [image](https://www.flickr.com/photos/motleypixel/20600012022/) is a remix from original by [Roy Niswanger](https://www.flickr.com/photos/motleypixel/)
 

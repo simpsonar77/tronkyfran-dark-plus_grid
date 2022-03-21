@@ -1,0 +1,27 @@
+<!--
+theme name:		tronkyfran-dark-plus-segacd
+version:		1.0
+author:			Koen Harthoorn aka Sjohn21
+website:		https://github.com/Sjohn21/tronkyfran-dark-plus
+forked from: 	tronkyfran  Tronkyfran/Herb Fargus (simple by nils bonenberger at www.nilsbyte.de)
+forked from:	https://github.com/HerbFargus/es-theme-tronkyfran
+license:		creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+		<text name="releaseDate" extra="true">
+			<text>JP: December 12, 1991; EU: April 1993</text>
+		</text>
+		<text name="developer" extra="true">
+			<text>Sega</text>
+		</text>
+		<text name="about" extra="true">
+			<text>The Mega-CD is an add-on device for the Mega Drive video game console. It released in North America under the name Sega CD, for the Sega Genesis. The device adds a CD-ROM drive to the console and provides additional hardware functionality. It can also play audio CDs and CD+G discs. The development of the Mega-CD was confidential; game developers were not made aware of what exactly they were working on until the add-on was finally revealed at the Tokyo Toy Show in Japan. The Mega-CD was designed to compete with the PC Engine CD (TurboGrafx-16 CD) in Japan, which had a separate CD-ROM drive. The first version of the Mega-CD sits underneath the Mega Drive console and loads CDs via a motorized tray. A second version places a top-loading CD-ROM drive to the right of the console and is intended primarily for use with the redesigned Sega Mega Drive 2. Both versions of the Mega-CD are compatible with the initial two versions of the Mega Drive console, but not with the Mega Drive 3 or Genesis 3.</text>
+		</text>
+	</view>
+	
+</theme>
+
+

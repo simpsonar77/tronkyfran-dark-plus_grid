@@ -1,0 +1,27 @@
+<!--
+theme name:		tronkyfran-dark-plus-ngp
+version:		1.0
+author:			Koen Harthoorn aka Sjohn21
+website:		https://github.com/Sjohn21/tronkyfran-dark-plus
+forked from: 	tronkyfran  Tronkyfran/Herb Fargus (simple by nils bonenberger at www.nilsbyte.de)
+forked from:	https://github.com/HerbFargus/es-theme-tronkyfran
+license:		creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+		<text name="releaseDate" extra="true">
+			<text>JP: October 28, 1998; EU: 1998</text>
+		</text>
+		<text name="developer" extra="true">
+			<text>SNK</text>
+		</text>
+		<text name="about" extra="true">
+			<text>The Neo Geo Pocket is a monochrome handheld game console released by SNK. It was the company's first handheld system and is part of the Neo Geo family. It debuted in Japan in late 1998 but never saw an American release, being exclusive to Japan, Asia and Europe. The Neo Geo Pocket received lower than expected sales and it was discontinued in 1999.</text>
+		</text>
+	</view>
+	
+</theme>
+
+

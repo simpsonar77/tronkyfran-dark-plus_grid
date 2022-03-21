@@ -1,0 +1,27 @@
+<!--
+theme name:		tronkyfran-dark-plus-neogeo
+version:		1.0
+author:			Koen Harthoorn aka Sjohn21
+website:		https://github.com/Sjohn21/tronkyfran-dark-plus
+forked from: 	tronkyfran  Tronkyfran/Herb Fargus (simple by nils bonenberger at www.nilsbyte.de)
+forked from:	https://github.com/HerbFargus/es-theme-tronkyfran
+license:		creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+		<text name="releaseDate" extra="true">
+			<text>JP: April 26, 1990; EU: 1991</text>
+		</text>
+		<text name="developer" extra="true">
+			<text>SNK</text>
+		</text>
+		<text name="about" extra="true">
+			<text>The Neo Geo is a cartridge-based arcade and home video game system by Japanese game company SNK. Being in the Fourth generation of Gaming, it was the first console in the former Neo Geo family, which only lived through the 1990s. The MVS (Multi Video System), as the Neo Geo was known to the coin-op industry, offered arcade operators the ability to put up to 6 different arcade titles into a single cabinet. With its games stored on self-contained cartridges, a game-cabinet could be exchanged for a different game-title by swapping the game's ROM-cartridge and cabinet artwork. The Neo Geo system was also marketed as a very costly home console, commonly referred to today as the AES (Advanced Entertainment System). The Neo Geo was marketed as 24-bit, though it was technically a parallel processing 16-bit system with an 8-bit Zilog Z80 as coprocessor. The coprocessor was used as a CPU and for sound processing.</text>
+		</text>
+	</view>
+	
+</theme>
+
+
