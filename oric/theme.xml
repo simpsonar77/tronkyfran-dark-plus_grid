@@ -1,0 +1,27 @@
+<!--
+theme name:		tronkyfran-dark-plus-oric
+version:		1.0
+author:			Koen Harthoorn aka Sjohn21
+website:		https://github.com/Sjohn21/tronkyfran-dark-plus
+forked from: 	tronkyfran  Tronkyfran/Herb Fargus (simple by nils bonenberger at www.nilsbyte.de)
+forked from:	https://github.com/HerbFargus/es-theme-tronkyfran
+license:		creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+		<text name="releaseDate" extra="true">
+			<text>Sept 1982 (Oric 1); Feb 1984 (Atmos)</text>
+		</text>
+		<text name="developer" extra="true">
+			<text>Tangerine Computer Systems</text>
+		</text>
+		<text name="about" extra="true">
+			<text>This British computer was one of the most popular computers in Europe in the beginning of the 80's. It was a small computer, which was a competitor of the Sinclair Spectrum. The two models (16 and 48) had the same technical characteristics. Notice that the sound chip was the same one used in the Amstrad CPC, MSX computers and Atari ST! Its ROM was very buggy, & was later replaced with the Oric Atmos. The Atmosh had almost the same features. Its main difference with the Oric 1 was the keyboard and the debugged ROM. Although improved, the loading process from tape was still very uncertain. The real mechanical keyboard was really better. Two versions were available, with 16 or 48 KB of RAM. 16 KB version couldn't be upgraded, very few of them were sold.</text>
+		</text>
+	</view>
+	
+</theme>
+
+

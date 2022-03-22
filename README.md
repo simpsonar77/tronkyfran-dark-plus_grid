@@ -70,6 +70,8 @@ Please, check [changelog](changelog.txt) file.
 - Nintendo 64
 - Nintendo DS
 - Nintendo Entertainment System (NES)
+- Oric (Atmos)
+- PC
 
 - Sega CD
 
@@ -91,11 +93,14 @@ Neo Geo Pocket background [image](https://commons.wikimedia.org/wiki/File:Neo-Ge
 
 Custom collection background [image](https://www.flickr.com/photos/motleypixel/20600012022/) is a remix from original by [Roy Niswanger](https://www.flickr.com/photos/motleypixel/)
 
-All platform "about" descriptions are direct copies or remixes from platform information on [thegamesDB](https://thegamesdb.net/list_platforms.php)
+Oric (Atmos) logos by Alexios from bedroomlan [here](https://www.bedroomlan.org/miscellany/oric-logo/)
+
+All (exceptions below) platform "about" descriptions are direct copies or remixes from platform information on [thegamesDB](https://thegamesdb.net/list_platforms.php)
+(IBM) PC about text is from [Wikipedia](https://en.wikipedia.org/wiki/IBM_Personal_Computer)
 
 ## License
 
-Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). Please see [license.txt](license.txt).
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). Please see [license.txt](license.txt).
 
 Summary of the license below:
 
@@ -106,6 +111,7 @@ Adapt — remix, transform, and build upon the material
 Under the following terms:
 Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 NonCommercial — You may not use the material for commercial purposes.
+ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 ### Logo Notice
 
