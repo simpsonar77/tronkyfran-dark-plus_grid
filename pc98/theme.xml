@@ -1,0 +1,27 @@
+<!--
+theme name:		tronkyfran-dark-plus-pc98
+version:		1.0
+author:			Koen Harthoorn aka Sjohn21
+website:		https://github.com/Sjohn21/tronkyfran-dark-plus
+forked from: 	tronkyfran  Tronkyfran/Herb Fargus (simple by nils bonenberger at www.nilsbyte.de)
+forked from:	https://github.com/HerbFargus/es-theme-tronkyfran
+license:		creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+		<text name="releaseDate" extra="true">
+			<text>October 1982</text>
+		</text>
+		<text name="developer" extra="true">
+			<text>NEC</text>
+		</text>
+		<text name="about" extra="true">
+			<text>The PC-9801 is a Japanese 16-bit microcomputer manufactured by NEC from 1982, the first in the PC-9800 series of 16-bit and 32-bit personal computers. The PC9801 had thousands of game titles designed for it, many of which made creative use of the system's limitations (it was originally designed as a business machine) to great commercial success. Despite having hardware specifications far inferior to the Fujitsu FM Towns and Sharp X68000 personal computers, the massive install base and steady flow of game titles (in particular "doujin" style dating sims and RPGs, as well as early games of the Touhou Project franchise) kept it as the favored platform for PC game developers in Japan until the rise of the DOS/V clones.</text>
+		</text>
+	</view>
+	
+</theme>
+
+

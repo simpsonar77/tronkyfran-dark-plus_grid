@@ -1,0 +1,27 @@
+<!--
+theme name:		tronkyfran-dark-plus-pc88
+version:		1.0
+author:			Koen Harthoorn aka Sjohn21
+website:		https://github.com/Sjohn21/tronkyfran-dark-plus
+forked from: 	tronkyfran  Tronkyfran/Herb Fargus (simple by nils bonenberger at www.nilsbyte.de)
+forked from:	https://github.com/HerbFargus/es-theme-tronkyfran
+license:		creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+		<text name="releaseDate" extra="true">
+			<text>November 1981</text>
+		</text>
+		<text name="developer" extra="true">
+			<text>NEC</text>
+		</text>
+		<text name="about" extra="true">
+			<text>The PC-8801 is a Zilog Z80-based home computer released by Nippon Electric Company (NEC) in 1981 in Japan. The PC-8801 is informally called the PC-88. Certain games produced for the PC-8801 had a shared release with the MSX, such as those produced by Game Arts, ELF Corporation, and Konami. Many popular series first appeared on the NEC PC-8801, including Snatcher, Thexder, Dragon Slayer, RPG Maker, and Ys. Nintendo licensed Hudson Soft to port some of Nintendo's Family Computer games for the console, including Excitebike, Balloon Fight, Tennis, Donkey Kong 3, Golf, and Ice Climber, as well as new editions of Mario Bros. called Mario Bros. Special and Punch Ball Mario Bros. and a unique Super Mario Bros. game for the computer, Super Mario Bros. Special.</text>
+		</text>
+	</view>
+	
+</theme>
+
+

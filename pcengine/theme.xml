@@ -1,0 +1,27 @@
+<!--
+theme name:		tronkyfran-dark-plus-pcengine
+version:		1.0
+author:			Koen Harthoorn aka Sjohn21
+website:		https://github.com/Sjohn21/tronkyfran-dark-plus
+forked from: 	tronkyfran  Tronkyfran/Herb Fargus (simple by nils bonenberger at www.nilsbyte.de)
+forked from:	https://github.com/HerbFargus/es-theme-tronkyfran
+license:		creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+		<text name="releaseDate" extra="true">
+			<text>JP: October 30, 1987; EU: November 22, 1989</text>
+		</text>
+		<text name="developer" extra="true">
+			<text>Hudson Soft</text>
+		</text>
+		<text name="about" extra="true">
+			<text>The PC Engine, known as the PTurboGrafx-16 in North America, is a fourth-generation home video game console. It was the first console marketed in the fourth generation of game consoles, commonly known as the 16-bit era, though the console has an 8-bit central processing unit (CPU). In Japan, the system was launched as a competitor to the Famicom, but the delayed United States release meant that it ended up competing with the Sega Genesis and later the Super NES. The console has an 8-bit CPU and a dual 16-bit graphics processing unit (GPU) chipset. The GPUs are capable of displaying 482 colors simultaneously, out of 512.  Games were released on HuCard cartridges and later the CD-ROM optical format with the TurboGrafx-CD add-on. The "16" in its North American name and the marketing of the console as a 16-bit platform despite having an 8-bit CPU was criticized by some as deceptive.</text>
+		</text>
+	</view>
+	
+</theme>
+
+
