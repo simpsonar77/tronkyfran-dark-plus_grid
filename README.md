@@ -74,6 +74,7 @@ Please, check [changelog](changelog.txt) file.
 - PC
 - NEC PC 8800 (non-tronkyfan)
 - NEC PC 9800 (non-tronkyfan)
+- PC Engine
 
 - Sega CD
 
@@ -89,16 +90,16 @@ Theme `tronkyfran` and variations by [Tronkyfran](https://github.com/tronkyfran)
 
 Based on `simple v1.4 - 03-08-2015` by © [Nils Bonenberger](http://blog.nilsbyte.de/).
 
-Atari Jaguar background [image](https://commons.wikimedia.org/wiki/File:Atari-Jaguar-Console-Set.png) is remix from original by [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
-Neo Geo CD background [image](https://commons.wikimedia.org/wiki/File:Neo-Geo-CD-TopLoader-wController-FL.jpg) is remix from original by [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
-Neo Geo Pocket background [image](https://commons.wikimedia.org/wiki/File:Neo-Geo-Pocket-Anthra-Left.jpg) is remix from original by [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)
-PC 9800nbackground [image](https://www.flickr.com/photos/htomari/8861196881/in/photostream/) is remix from original by [htomari](https://www.flickr.com/photos/htomari/)
-Custom collection background [image](https://www.flickr.com/photos/motleypixel/20600012022/) is a remix from original by [Roy Niswanger](https://www.flickr.com/photos/motleypixel/)
+Atari Jaguar background [image](https://commons.wikimedia.org/wiki/File:Atari-Jaguar-Console-Set.png) is remix from original by [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)  
+Neo Geo CD background [image](https://commons.wikimedia.org/wiki/File:Neo-Geo-CD-TopLoader-wController-FL.jpg) is remix from original by [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)  
+Neo Geo Pocket background [image](https://commons.wikimedia.org/wiki/File:Neo-Geo-Pocket-Anthra-Left.jpg) is remix from original by [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)  
+PC 9800nbackground [image](https://www.flickr.com/photos/htomari/8861196881/in/photostream/) is remix from original by [htomari](https://www.flickr.com/photos/htomari/)  
+Custom collection background [image](https://www.flickr.com/photos/motleypixel/20600012022/) is a remix from original by [Roy Niswanger](https://www.flickr.com/photos/motleypixel/)  
 
 Oric (Atmos) logos by Alexios from bedroomlan [here](https://www.bedroomlan.org/miscellany/oric-logo/)
 
-All (exceptions below) platform "about" descriptions are direct copies or remixes from platform information on [thegamesDB](https://thegamesdb.net/list_platforms.php)
-(IBM) PC about text is from [Wikipedia](https://en.wikipedia.org/wiki/IBM_Personal_Computer)
+All (exceptions below) platform "about" descriptions are direct copies or remixes from platform information on [thegamesDB](https://thegamesdb.net/list_platforms.php)  
+(IBM) PC about text is from [Wikipedia](https://en.wikipedia.org/wiki/IBM_Personal_Computer)  
 PCengine text is from [Wikipedia](https://en.wikipedia.org/wiki/TurboGrafx-16)
 
 ## License
