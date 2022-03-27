@@ -38,6 +38,7 @@ Please, check [changelog](changelog.txt) file.
 - Amiga
 - Amstrad CPC
 - Apple II
+- Arcade
 - Atari 2600
 - Atari 5200
 - Atari 7800
@@ -46,7 +47,7 @@ Please, check [changelog](changelog.txt) file.
 - Atari ST
 - CoCo (TRS-80 Color Computer)
 - ColecoVision
-- Daphne
+- Daphne (untested)
 - Dragon 32
 - Dreamcast
 - Famicom Disk System
@@ -59,7 +60,7 @@ Please, check [changelog](changelog.txt) file.
 - Game Boy Advance
 - Intellivision
 - Macintosh (non-tronkyfan)
-- Mame
+- Mame  (untested)
 - Master System
 - Mega Drive
 - MSX
@@ -72,14 +73,22 @@ Please, check [changelog](changelog.txt) file.
 - Nintendo Entertainment System (NES)
 - Oric (Atmos) (non-tronkyfan)
 - PC
+- RetroPie (non-tronkyfan)
 - NEC PC 8800 (non-tronkyfan)
 - NEC PC 9800 (non-tronkyfan)
 - PC Engine
-
+- Playstation 1
+- Playstation 2
+- Pokemon Mini
+- Playstation Portable
+- ResidualVM (non-tronkyfan) (untested)
+- Sam Coupe
+- Sega Saturn (non-tronkyfan??)
+- ScummVM (untested)
+- Sega 32X
 - Sega CD
+- SG 1000
 
-- PSX
-- RetroPie
 - SNES
 - Wii
 
@@ -97,10 +106,13 @@ PC 9800nbackground [image](https://www.flickr.com/photos/htomari/8861196881/in/p
 Custom collection background [image](https://www.flickr.com/photos/motleypixel/20600012022/) is a remix from original by [Roy Niswanger](https://www.flickr.com/photos/motleypixel/)  
 
 Oric (Atmos) logos by Alexios from bedroomlan [here](https://www.bedroomlan.org/miscellany/oric-logo/)
+Arcade logo adopted from [Logo_arcade_wikipedia.svg](https://commons.wikimedia.org/wiki/File:Logo_Arcade_Wikipedia.svg), author `VateGV`
 
 All (exceptions below) platform "about" descriptions are direct copies or remixes from platform information on [thegamesDB](https://thegamesdb.net/list_platforms.php)  
 (IBM) PC about text is from [Wikipedia](https://en.wikipedia.org/wiki/IBM_Personal_Computer)  
-PCengine text is from [Wikipedia](https://en.wikipedia.org/wiki/TurboGrafx-16)
+PCengine text is from [Wikipedia](https://en.wikipedia.org/wiki/TurboGrafx-16)  
+ResidualVM text is from [Wikipedia](https://en.wikipedia.org/wiki/ScummVM)  
+ScummVM text is from [Wikipedia](https://en.wikipedia.org/wiki/ScummVM)  
 
 ## License
 
@@ -108,16 +120,15 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-N
 
 Summary of the license below:
 
-You are free to:
-Share — copy and redistribute the material in any medium or format
+You are free to:  
+Share — copy and redistribute the material in any medium or format  
 Adapt — remix, transform, and build upon the material
 
 Under the following terms:
-Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-NonCommercial — You may not use the material for commercial purposes.
-ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.  
+NonCommercial — You may not use the material for commercial purposes.  
+ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.  
 
 ### Logo Notice
 
-If not stated otherwise below the used logos and trademarks are copyright of their respective owners.
--Arcade logo adopted from [Logo_arcade_wikipedia.svg](https://commons.wikimedia.org/wiki/File:Logo_Arcade_Wikipedia.svg), author `VateGV`
+If not stated otherwise the used logos and trademarks are copyright of their respective owners.  

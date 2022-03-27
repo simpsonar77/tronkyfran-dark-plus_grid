@@ -1,0 +1,27 @@
+<!--
+theme name:		tronkyfran-dark-plus-psp
+version:		1.0
+author:			Koen Harthoorn aka Sjohn21
+website:		https://github.com/Sjohn21/tronkyfran-dark-plus
+forked from: 	tronkyfran  Tronkyfran/Herb Fargus (simple by nils bonenberger at www.nilsbyte.de)
+forked from:	https://github.com/HerbFargus/es-theme-tronkyfran
+license:		creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+		<text name="releaseDate" extra="true">
+			<text>JP: December 12, 2004; EU: September 1, 2005</text>
+		</text>
+		<text name="developer" extra="true">
+			<text>Sony Computer Entertainment</text>
+		</text>
+		<text name="about" extra="true">
+			<text>The PlayStation Portable, officially abbreviated PSP, is a handheld game console manufactured and marketed by Sony Corporation. The PlayStation Portable is the first and only handheld video game console to use an optical disc format, Universal Media Disc (UMD), as its primary storage medium.</text>
+		</text>
+	</view>
+	
+</theme>
+
+

@@ -1,0 +1,27 @@
+<!--
+theme name:		tronkyfran-dark-plus-sg-1000
+version:		1.0
+author:			Koen Harthoorn aka Sjohn21
+website:		https://github.com/Sjohn21/tronkyfran-dark-plus
+forked from: 	tronkyfran  Tronkyfran/Herb Fargus (simple by nils bonenberger at www.nilsbyte.de)
+forked from:	https://github.com/HerbFargus/es-theme-tronkyfran
+license:		creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+		<text name="releaseDate" extra="true">
+			<text>JP: July 15, 1983</text>
+		</text>
+		<text name="developer" extra="true">
+			<text>Sega</text>
+		</text>
+		<text name="about" extra="true">
+			<text>The SG-1000 is a cartridge-based home video game console manufactured by Sega and released in Japan, Australia, and other countries. This system marked Sega's first entry into the home video game hardware business, and provided the basis for the more successful Master System. The SG-1000's game library comprises 68 standard cartridge releases and 29 Sega Card releases. All of the SG-1000's games play on each model of the console, though 26 of the cartridge releases require the attached keyboard accessory or the SC-3000. In addition, all titles are fully compatible with the Mark III and Master System. Titles for the system include Flicky, Congo Bongo, Sega-Galaga, and Girl's Garden, the first video game directed by Sonic the Hedgehog creator Yuji Naka. The game library for the SG-1000 also included licensed titles, such as Golgo 13.</text>
+		</text>
+	</view>
+	
+</theme>
+
+
