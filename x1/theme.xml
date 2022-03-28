@@ -1,0 +1,27 @@
+<!--
+theme name:		tronkyfran-dark-plus-x1
+version:		1.0
+author:			Koen Harthoorn aka Sjohn21
+website:		https://github.com/Sjohn21/tronkyfran-dark-plus
+forked from: 	tronkyfran  Tronkyfran/Herb Fargus (simple by nils bonenberger at www.nilsbyte.de)
+forked from:	https://github.com/HerbFargus/es-theme-tronkyfran
+license:		creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+		<text name="releaseDate" extra="true">
+			<text>1982</text>
+		</text>
+		<text name="developer" extra="true">
+			<text>Sharp Corporation</text>
+		</text>
+		<text name="about" extra="true">
+			<text>The X1, sometimes called the Sharp X1, is a series of home computers released from 1982 to 1988. It was based on a Z80 CPU. The X1 did not have a BASIC ROM, it had to load the Hu-BASIC interpreter from a cassette tape. This concept meant that a free RAM area was available that was as big as possible when not using BASIC. The cabinet shape of X1 was much more stylish than others at that time and a range of cabinet colors (including Red) was selectable. The RGB display for the X1 had a television tuner, a computer screen could be superimposed on TV. The character font was programmable with 4bit color, it was effectively used into a lot of games. Since X1 had these features, it was very powerful for game software. In 1984, Sharp released the X1 turbo series with high resolution graphics (640x400, X1 had 640x200). In 1986, Sharp released the X1 turbo Z series with a 4096 color analog RGB monitor. An X1 twin, which had a PC-Engine in the cabinet, was released as the last machine of the X1 series in 1987. </text>
+		</text>
+	</view>
+	
+</theme>
+
+

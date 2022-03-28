@@ -1,0 +1,27 @@
+<!--
+theme name:		tronkyfran-dark-plus-ti99
+version:		1.0
+author:			Koen Harthoorn aka Sjohn21
+website:		https://github.com/Sjohn21/tronkyfran-dark-plus
+forked from: 	tronkyfran  Tronkyfran/Herb Fargus (simple by nils bonenberger at www.nilsbyte.de)
+forked from:	https://github.com/HerbFargus/es-theme-tronkyfran
+license:		creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+		<text name="releaseDate" extra="true">
+			<text>June 1981</text>
+		</text>
+		<text name="developer" extra="true">
+			<text>Texas Instruments</text>
+		</text>
+		<text name="about" extra="true">
+			<text>The Texas Instruments TI-99/4A is a home computer, released June 1981 in the United States at a price of $525. It is an enhanced version of the less successful TI-99/4 model, which was released in late 1979 at a price of $1,150. The TI-99/4 had a calculator-style chiclet keyboard and a character set that lacked lowercase text. The TI-99/4A added an additional graphics mode, "lowercase" characters consisting of small capitals, and a full-travel keyboard. Both used 16-bit processors, making the TI-99/4 series the first 16-bit home computers.</text>
+		</text>
+	</view>
+	
+</theme>
+
+

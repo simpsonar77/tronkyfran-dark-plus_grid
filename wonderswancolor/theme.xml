@@ -1,0 +1,27 @@
+<!--
+theme name:		tronkyfran-dark-plus-wonderswancolor
+version:		1.0
+author:			Koen Harthoorn aka Sjohn21
+website:		https://github.com/Sjohn21/tronkyfran-dark-plus
+forked from: 	tronkyfran  Tronkyfran/Herb Fargus (simple by nils bonenberger at www.nilsbyte.de)
+forked from:	https://github.com/HerbFargus/es-theme-tronkyfran
+license:		creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+		<text name="releaseDate" extra="true">
+			<text>JP: December 9, 2000</text>
+		</text>
+		<text name="developer" extra="true">
+			<text>Bandai</text>
+		</text>
+		<text name="about" extra="true">
+			<text>The WonderSwan Color in Japan was a moderate success. Although the WonderSwan Color was slightly larger and heavier (7 mm and 2 g) compared to the original WonderSwan, the color version featured 512KB of RAM and a larger color LCD screen. In addition, the WonderSwan Color is compatible with the original WonderSwan library of games. Prior to WonderSwan's release, Nintendo had a virtual monopoly in the Japanese video game handheld market. After the release of the WonderSwan Color, Bandai took approximately 8% of the market share in Japan partly due to its low price of ¥6800 Japanese yen. Another reason for the WonderSwan's success in Japan was the fact that Bandai managed to get a deal with Square to port over the original Famicom Final Fantasy games with improved graphics and controls. However, with the popularity of the Game Boy Advance and the reconciliation between Square and Nintendo, the WonderSwan Color and its successor, the SwanCrystal, quickly lost its competitive advantage.</text>
+		</text>
+	</view>
+	
+</theme>
+
+

@@ -1,0 +1,27 @@
+<!--
+theme name:		tronkyfran-dark-plus-zxspectrum
+version:		1.0
+author:			Koen Harthoorn aka Sjohn21
+website:		https://github.com/Sjohn21/tronkyfran-dark-plus
+forked from: 	tronkyfran  Tronkyfran/Herb Fargus (simple by nils bonenberger at www.nilsbyte.de)
+forked from:	https://github.com/HerbFargus/es-theme-tronkyfran
+license:		creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+		<text name="releaseDate" extra="true">
+			<text>UK: April 23, 1982</text>
+		</text>
+		<text name="developer" extra="true">
+			<text>Sinclair Research</text>
+		</text>
+		<text name="about" extra="true">
+			<text>The ZX Spectrum is an 8-bit personal home computer, was first released in the United Kingdom and went on to become Britain's best-selling microcomputer. Referred to during development as the ZX81 Colour and ZX82, it was launched as the ZX Spectrum to highlight the machine's colour display. The Spectrum was released as eight different models, ranging from the entry level with 16 KB RAM released in 1982 to the ZX Spectrum +3 with 128 KB RAM and built in floppy disk drive in 1987; altogether they sold over 5 million units worldwide (not counting unofficial clones). The Spectrum was among the first home computers in the United Kingdom aimed at a mainstream audience. The introduction of the ZX Spectrum led to a boom in companies producing software and hardware for the machine. Some credit it as the machine which launched the British information technology industry. Licensing deals and clones followed, earning Clive Sinclair a knighthood for services to British industry.</text>
+		</text>
+	</view>
+	
+</theme>
+
+

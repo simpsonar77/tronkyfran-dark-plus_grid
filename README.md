@@ -88,9 +88,19 @@ Please, check [changelog](changelog.txt) file.
 - Sega 32X
 - Sega CD
 - SG 1000
-
-- SNES
+- Sharp X1
+- Sharp X68000
+- Super Nintendo Entertainment System
+- TI-99/4A (non-tronkyfan)
+- TRS-80 (non-tronkyfan)
+- Vectrex
+- Videopac
+- Virtual boy (non-tronkyfan)
 - Wii
+- WonderSwan (non-tronkyfan)
+- WonderSwan Color (non-tronkyfan)
+- ZX81 (non-tronkyfan
+- ZX Spectrum
 
 ## Credits
 
@@ -99,13 +109,19 @@ Theme `tronkyfran` and variations by [Tronkyfran](https://github.com/tronkyfran)
 
 Based on `simple v1.4 - 03-08-2015` by © [Nils Bonenberger](http://blog.nilsbyte.de/).
 
-Atari Jaguar background [image](https://commons.wikimedia.org/wiki/File:Atari-Jaguar-Console-Set.png) is remix from original by [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)  
-Neo Geo CD background [image](https://commons.wikimedia.org/wiki/File:Neo-Geo-CD-TopLoader-wController-FL.jpg) is remix from original by [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)  
-Neo Geo Pocket background [image](https://commons.wikimedia.org/wiki/File:Neo-Geo-Pocket-Anthra-Left.jpg) is remix from original by [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)  
-PC 9800nbackground [image](https://www.flickr.com/photos/htomari/8861196881/in/photostream/) is remix from original by [htomari](https://www.flickr.com/photos/htomari/)  
+Atari Jaguar background [image](https://commons.wikimedia.org/wiki/File:Atari-Jaguar-Console-Set.png) is a remix from original by [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)  
+Neo Geo CD background [image](https://commons.wikimedia.org/wiki/File:Neo-Geo-CD-TopLoader-wController-FL.jpg) is a remix from original by [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)  
+Neo Geo Pocket background [image](https://commons.wikimedia.org/wiki/File:Neo-Geo-Pocket-Anthra-Left.jpg) is a remix from original by [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)  
+PC 9800 background [image](https://www.flickr.com/photos/htomari/8861196881/in/photostream/) is a remix from original by [htomari](https://www.flickr.com/photos/htomari/)  
+TI-99 background [image](https://commons.wikimedia.org/wiki/File:TI99-IMG_7143.jpg) is a remix from original by [Rama](https://commons.wikimedia.org/wiki/User:Rama) & [Musée Bolo](https://www.museebolo.ch/)  
+TRS-80 background [image](https://www.flickr.com/photos/eevblog/14764000602) is a remix from original by [Dave Jones](https://www.flickr.com/photos/eevblog/)  
+Virtual boy background [image](https://commons.wikimedia.org/wiki/File:Virtual-Boy-Set.png) is a remix from original by [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)  
+WonderSwan background [image](https://commons.wikimedia.org/wiki/File:WonderSwan-Black-Left.jpg) is a remix from original by [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)  
+WonderSwan Color background [image](https://commons.wikimedia.org/wiki/File:WonderSwan-Color-Blue-Left.jpg) is a remix from original by [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)  
+ZX81 background [image](https://commons.wikimedia.org/wiki/File:Sinclair-ZX81.png) is a remix from original by [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos)  
 Custom collection background [image](https://www.flickr.com/photos/motleypixel/20600012022/) is a remix from original by [Roy Niswanger](https://www.flickr.com/photos/motleypixel/)  
 
-Oric (Atmos) logos by Alexios from bedroomlan [here](https://www.bedroomlan.org/miscellany/oric-logo/)
+Oric (Atmos) logos by Alexios from bedroomlan [here](https://www.bedroomlan.org/miscellany/oric-logo/)  
 Arcade logo adopted from [Logo_arcade_wikipedia.svg](https://commons.wikimedia.org/wiki/File:Logo_Arcade_Wikipedia.svg), author `VateGV`
 
 All (exceptions below) platform "about" descriptions are direct copies or remixes from platform information on [thegamesDB](https://thegamesdb.net/list_platforms.php)  
@@ -113,6 +129,9 @@ All (exceptions below) platform "about" descriptions are direct copies or remixe
 PCengine text is from [Wikipedia](https://en.wikipedia.org/wiki/TurboGrafx-16)  
 ResidualVM text is from [Wikipedia](https://en.wikipedia.org/wiki/ScummVM)  
 ScummVM text is from [Wikipedia](https://en.wikipedia.org/wiki/ScummVM)  
+TRS-80 text is from [Wikipedia](https://en.wikipedia.org/wiki/TRS-80)
+ZX81 text is from [Wikipedia](https://en.wikipedia.org/wiki/ZX81)
+ZX Spectrum text is from [Wikipedia](https://en.wikipedia.org/wiki/ZX_Spectrum)
 
 ## License
 
@@ -124,7 +143,7 @@ You are free to:
 Share — copy and redistribute the material in any medium or format  
 Adapt — remix, transform, and build upon the material
 
-Under the following terms:
+Under the following terms:  
 Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.  
 NonCommercial — You may not use the material for commercial purposes.  
 ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.  

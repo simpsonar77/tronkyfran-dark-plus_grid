@@ -1,0 +1,27 @@
+<!--
+theme name:		tronkyfran-dark-plus-wonderswan
+version:		1.0
+author:			Koen Harthoorn aka Sjohn21
+website:		https://github.com/Sjohn21/tronkyfran-dark-plus
+forked from: 	tronkyfran  Tronkyfran/Herb Fargus (simple by nils bonenberger at www.nilsbyte.de)
+forked from:	https://github.com/HerbFargus/es-theme-tronkyfran
+license:		creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+		<text name="releaseDate" extra="true">
+			<text>JP: March 4, 1999</text>
+		</text>
+		<text name="developer" extra="true">
+			<text>Bandai</text>
+		</text>
+		<text name="about" extra="true">
+			<text>The WonderSwan was a line of handheld game consoles produced in Japan. It was developed by Gunpei Yokoi's company Koto and Bandai. The WonderSwan was made to compete with the Neo Geo Pocket Color and Nintendo's Game Boy Color (even though Gunpei Yokoi developed the original Nintendo Game Boy). The original WonderSwan was later replaced by the WonderSwan Color; although some WonderSwan Color games are compatible with the original WonderSwan, many are designed exclusively for the WonderSwan Color and show a message such as "This cartridge is for WonderSwan Color only" when run on the original WonderSwan. The WonderSwan is playable both vertically and horizontally, and feature a fairly large library of games, including numerous first-party titles based on licensed anime properties, with significant third-party support from Square and Capcom. As it was a console designed essentially for the Japanese market, most of the games are in Japanese, with only a few featuring English text</text>
+		</text>
+	</view>
+	
+</theme>
+
+

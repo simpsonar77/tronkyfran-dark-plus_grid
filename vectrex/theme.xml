@@ -1,0 +1,27 @@
+<!--
+theme name:		tronkyfran-dark-plus-vectrex
+version:		1.0
+author:			Koen Harthoorn aka Sjohn21
+website:		https://github.com/Sjohn21/tronkyfran-dark-plus
+forked from: 	tronkyfran  Tronkyfran/Herb Fargus (simple by nils bonenberger at www.nilsbyte.de)
+forked from:	https://github.com/HerbFargus/es-theme-tronkyfran
+license:		creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+		<text name="releaseDate" extra="true">
+			<text>NA: November 1982; EU: 1983</text>
+		</text>
+		<text name="developer" extra="true">
+			<text>Smith Engineering</text>
+		</text>
+		<text name="about" extra="true">
+			<text>The Vectrex is a vector display-based home video game console that was developed by Western Technologies/Smith Engineering. It was licensed and distributed first by General Consumer Electronics (GCE), and then by Milton Bradley Company after its purchase of GCE. Unlike other non-portable video game consoles, which connected to televisions and rendered raster graphics, the Vectrex has an integrated vector monitor which displays vector graphics. The Vectrex is monochrome and uses plastic screen overlays to simulate color and various static graphics and decorations. At the time, many of the most popular arcade games used vector displays, and through a licensing deal with Cinematronics, GCE was able to produce high-quality versions of arcade games such as Space Wars and Armor Attack.</text>
+		</text>
+	</view>
+	
+</theme>
+
+

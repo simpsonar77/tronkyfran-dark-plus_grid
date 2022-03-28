@@ -1,0 +1,27 @@
+<!--
+theme name:		tronkyfran-dark-plus-videopac
+version:		1.0
+author:			Koen Harthoorn aka Sjohn21
+website:		https://github.com/Sjohn21/tronkyfran-dark-plus
+forked from: 	tronkyfran  Tronkyfran/Herb Fargus (simple by nils bonenberger at www.nilsbyte.de)
+forked from:	https://github.com/HerbFargus/es-theme-tronkyfran
+license:		creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+		<text name="releaseDate" extra="true">
+			<text>EU: December 1978</text>
+		</text>
+		<text name="developer" extra="true">
+			<text>Magnavox / Philips</text>
+		</text>
+		<text name="about" extra="true">
+			<text>The Videopac, known in North America as the Magnavox Odyssey², in Brazil as the Philips Odyssey and also by many other names, is a video game console released in 1978. In the early 1970s, Magnavox was an innovator in the home video game industry. They succeeded in bringing the first home video game system to market, the Odyssey, which was quickly followed by a number of later models, each with a few technological improvements (Magnavox Odyssey Series). In 1978, Magnavox, now a subsidiary of North American Philips, released the Videopac, its new second-generation video game console. In 2009, the video game website IGN named the Videopac the 21st greatest video game console, out of its list of 25.</text>
+		</text>
+	</view>
+	
+</theme>
+
+

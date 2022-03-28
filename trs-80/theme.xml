@@ -1,0 +1,27 @@
+<!--
+theme name:		tronkyfran-dark-plus-trs-80
+version:		1.0
+author:			Koen Harthoorn aka Sjohn21
+website:		https://github.com/Sjohn21/tronkyfran-dark-plus
+forked from: 	tronkyfran  Tronkyfran/Herb Fargus (simple by nils bonenberger at www.nilsbyte.de)
+forked from:	https://github.com/HerbFargus/es-theme-tronkyfran
+license:		creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+		<text name="releaseDate" extra="true">
+			<text>August 3, 1977</text>
+		</text>
+		<text name="developer" extra="true">
+			<text>Tandy Corporation</text>
+		</text>
+		<text name="about" extra="true">
+			<text>The TRS-80 Micro Computer System (TRS-80, later renamed the Model I to distinguish it from successors) is a desktop microcomputer launched in 1977. The name is an abbreviation of Tandy Radio Shack, Z80 [microprocessor]. It is one of the earliest mass-produced and mass-marketed retail home computers. The TRS-80 has a full-stroke QWERTY keyboard, the Zilog Z80 processor, 4 KB DRAM standard memory, small size and desk footprint, floating-point Level I BASIC language interpreter in ROM, 64-character per line video monitor, and a starting price of US$600. A cassette tape drive for program storage was included in the original package. While the software environment was stable, the cassette load/save process combined with keyboard bounce issues and a troublesome expansion interface contributed to the Model I's reputation as not well-suited to serious use. It lacked support for lowercase characters, which also hampered business adoption.</text>
+		</text>
+	</view>
+	
+</theme>
+
+

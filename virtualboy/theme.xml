@@ -1,0 +1,27 @@
+<!--
+theme name:		tronkyfran-dark-plus-virtualboy
+version:		1.0
+author:			Koen Harthoorn aka Sjohn21
+website:		https://github.com/Sjohn21/tronkyfran-dark-plus
+forked from: 	tronkyfran  Tronkyfran/Herb Fargus (simple by nils bonenberger at www.nilsbyte.de)
+forked from:	https://github.com/HerbFargus/es-theme-tronkyfran
+license:		creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+		<text name="releaseDate" extra="true">
+			<text>JP: July 21, 1995; NA: August 14, 1995</text>
+		</text>
+		<text name="developer" extra="true">
+			<text>Nintendo</text>
+		</text>
+		<text name="about" extra="true">
+			<text>The Virtual Boy was a table-top video game console developed and manufactured by Nintendo. It was the first video game console that was supposed to be capable of displaying "true 3D graphics" out of the box, in a form of virtual reality. Whereas most video games use monocular cues to achieve the illusion of three dimensions on a two-dimensional screen, The Virtual Boy creates an illusion of depth through the effect known as parallax. In a manner similar to using a head-mounted display, the user looks into an eyepiece made of neoprene on the front of the machine, and then an eyeglass-style projector allows viewing of the monochromatic (in this case, red) image. It was released on July 21, 1995 in Japan and August 14, 1995 in North America at a price of around US$180. It then became a commercial failure and it was not released in PAL markets. It met with a lukewarm reception that was unaffected by continued price drops. Nintendo discontinued it the following year</text>
+		</text>
+	</view>
+	
+</theme>
+
+
