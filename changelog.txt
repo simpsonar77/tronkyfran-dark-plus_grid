@@ -15,5 +15,10 @@ Include auto generated theme files
 Updated some systems
 
 19-03-2022
-V1.2.1 First update
+V1.2.1 update
 Updated some systems
+
+30-03-2022
+V1.3 View update
+Added basic and grid view.
+Cleaned up and added all basic supported systems

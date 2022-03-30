@@ -24,10 +24,6 @@ In order to update your installed theme (if you installed with above instruction
     cd ~/.emulationstation/themes/tronkyfran-dark-plus
     git pull
 
-## Todo / in progress
-
-- add art & description for missing consoles and update others
-
 ## Changelog
 
 Please, check [changelog](changelog.txt) file.
@@ -59,6 +55,7 @@ Please, check [changelog](changelog.txt) file.
 - Game Boy Color
 - Game Boy Advance
 - Intellivision
+- Kodi
 - Macintosh (non-tronkyfan)
 - Mame  (untested)
 - Master System
@@ -99,7 +96,7 @@ Please, check [changelog](changelog.txt) file.
 - Wii
 - WonderSwan (non-tronkyfan)
 - WonderSwan Color (non-tronkyfan)
-- ZX81 (non-tronkyfan
+- ZX81 (non-tronkyfan)
 - ZX Spectrum
 
 ## Credits
@@ -126,6 +123,7 @@ Arcade logo adopted from [Logo_arcade_wikipedia.svg](https://commons.wikimedia.o
 
 All (exceptions below) platform "about" descriptions are direct copies or remixes from platform information on [thegamesDB](https://thegamesdb.net/list_platforms.php)  
 (IBM) PC about text is from [Wikipedia](https://en.wikipedia.org/wiki/IBM_Personal_Computer)  
+Kodi text is from [Wikipedia](https://en.wikipedia.org/wiki/Kodi_(software))
 PCengine text is from [Wikipedia](https://en.wikipedia.org/wiki/TurboGrafx-16)  
 ResidualVM text is from [Wikipedia](https://en.wikipedia.org/wiki/ScummVM)  
 ScummVM text is from [Wikipedia](https://en.wikipedia.org/wiki/ScummVM)  

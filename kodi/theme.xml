@@ -1,0 +1,27 @@
+<!--
+theme name:		tronkyfran-dark-plus-kodi
+version:		1.0
+author:			Koen Harthoorn aka Sjohn21
+website:		https://github.com/Sjohn21/tronkyfran-dark-plus
+forked from: 	tronkyfran  Tronkyfran/Herb Fargus (simple by nils bonenberger at www.nilsbyte.de)
+forked from:	https://github.com/HerbFargus/es-theme-tronkyfran
+license:		creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	<view name="system">
+		<text name="releaseDate" extra="true">
+			<text>2002</text>
+		</text>
+		<text name="developer" extra="true">
+			<text>XBMC Foundation</text>
+		</text>
+		<text name="about" extra="true">
+			<text>Kodi (formerly XBMC) is a free and open-source media player software application developed by the XBMC Foundation, a non-profit technology consortium.[4] Kodi is available for multiple operating systems and hardware platforms, with a software 10-foot user interface for use with televisions and remote controls. It allows users to play and view most streaming media, such as videos, music, podcasts, and videos from the Internet, as well as all common digital media files from local and network storage media.</text>
+		</text>
+	</view>
+	
+</theme>
+
+
